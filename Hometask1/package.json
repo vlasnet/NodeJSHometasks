@@ -1,0 +1,18 @@
+{
+  "name": "hometask1",
+  "version": "1.0.0",
+  "description": "Home task NodeJS 1",
+  "main": "HomeTask1.js",
+  "scripts": {
+    "test": "test",
+    "start": "set up Node path for Windows and run script - it used insteed of comments",
+    "start": "set NODE_PATH=.&& node HomeTask1.js",
+    "start_unix": "set up Node path for Linux and run script - it used insteed of comments",
+    "start_unix": "NODE_PATH=. node HomeTask1.js"
+  },
+  "author": "Sergey Vlasyuk",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
