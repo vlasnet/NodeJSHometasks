@@ -1,0 +1,46 @@
+[
+  {
+    "id": "55e5aa16-a84a-400f-aff9-43c6f719ce26",
+    "username": "vlad111",
+    "password": "123",
+    "books": [
+      {
+        "title": "JS is suck!",
+        "author": "PHP developer"
+      }
+    ]
+  },
+  {
+    "id": "76683b8f-8702-4801-ac14-4b8867f2bf76",
+    "username": "sergey111",
+    "password": "123",
+    "books": [
+      {
+        "title": "JS is suck!",
+        "author": "PHP developer"
+      }
+    ]
+  },
+  {
+    "id": "7d6494e2-f2c2-4caa-80cf-d5ba02b6c437",
+    "username": "oleg111",
+    "password": "123",
+    "books": [
+      {
+        "title": "JS is suck!",
+        "author": "PHP developer"
+      }
+    ]
+  },
+  {
+    "id": "1995c1f0-59cb-4f80-81d8-ab372fc6704e",
+    "username": "anatolii111",
+    "password": "123",
+    "books": [
+      {
+        "title": "JS is suck!",
+        "author": "PHP developer"
+      }
+    ]
+  }
+]
